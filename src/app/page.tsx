@@ -47,7 +47,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs
+            Read our docs click here
           </a>
         </div>
       </main>
@@ -80,7 +80,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Examples
+          This is the Examples
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
